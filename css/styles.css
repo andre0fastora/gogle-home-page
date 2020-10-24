@@ -1,0 +1,30 @@
+#nav-bar {
+    display: flex;
+    justify-content: flex-end;
+}
+#nav-bar li {
+    display: inline;
+    list-style: none;
+    padding: 5px;
+    
+}
+
+
+#nav-bar-right {
+    margin-right: 5%;
+}
+
+#main {
+    text-align: center;
+    margin-top: 10%;
+
+    
+}
+
+#search-bar {
+    margin: 2%;
+    border-radius: 25px;
+    width: 25%;
+    height: 25px;
+    
+}
